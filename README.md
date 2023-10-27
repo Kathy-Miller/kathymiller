@@ -45,7 +45,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-Click 👉 !["C:\Users\otterbe\Downloads\HERE emoji.png"](https://youtu.be/B75beY33HsM?feature=shared) to watch the osTicket Prereqs and install demo video. 👈
+Click 👉 <![image]"C:\Users\otterbe\Downloads\HERE emoji.png"]>(https://youtu.be/B75beY33HsM?feature=shared) to watch the osTicket Prereqs and install demo video. 👈
 
 Detailed instruction with timestamps can be found here: 
 
@@ -91,7 +91,7 @@ Detailed instruction with timestamps can be found here:
 
 <h2>Next UP: Post Configuration of osTicket</h2>
 
-Click 👉 ![HERE](https://github.com/Kathy-Miller/osTicket-Post-Installation)  👈 to go to that Repository.
+Click 👉 ![(https://emoji-maker.com/emoji_detail?f=20231027141956652107)](https://github.com/Kathy-Miller/osTicket-Post-Installation)  👈 to go to that Repository.
 <br />
 
 
