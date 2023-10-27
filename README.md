@@ -16,7 +16,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-<h2>Video Demonstration</h2>
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -27,6 +27,8 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro (22H2)</b>
+
+<h2>Video Demonstration</h2>
 
 <h2>osTicket System Prerequisites</h2>
 
@@ -48,7 +50,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e) 👈 to Watch Full Demo on YouTube
 
 
-Detailed instruction with timestamps can be found here: 
+Video Timestamps:
 
 - 00:00 Intro 
 - 00:16 Getting Started
