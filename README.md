@@ -45,7 +45,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-Click 👉 [**HERE**](https://youtu.be/B75beY33HsM?feature=shared) to watch the osTicket Prereqs and install demo video. 👈
+Click 👉 !["C:\Users\otterbe\Downloads\HERE emoji.png"](https://youtu.be/B75beY33HsM?feature=shared) to watch the osTicket Prereqs and install demo video. 👈
 
 Detailed instruction with timestamps can be found here: 
 
