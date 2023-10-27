@@ -90,7 +90,7 @@ Detailed instruction with timestamps can be found here:
 </br>
 
 
-<h2>Next UP: Post Configuration of osTicket</h2>
+<h2>Next Up: Post Configuration of osTicket</h2>
 
 Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-Post-Installation) 👈 to go to the Post Installation repository.
 <br />
