@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Below is a demostration of the the skills practiced in the osTicketing System Lab.  The topics covered are installation prerequisites, installation, and use of the system as a user and an administrator.<br />
+Below is a demostration of the the skills practiced in the osTicketing System Lab.  The topics covered are installation of prerequisites, installation of osTicket, and use of the system as a user and an administrator. During the Prereqs phase of the lab, I installed all the prerequisites and installed osTicket. A detailed outline of the steps completed are below. I created a video of the project which is linked below, also.<br />
  <p>
 
 
@@ -45,8 +45,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-[Click :point_right:](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
-[**HERE**](https://youtu.be/B75beY33HsM?feature=shared) to watch the full install demo video.
+Click 👉 [**HERE**](https://youtu.be/B75beY33HsM?feature=shared) to watch the osTicket Prereqs and install demo video. 👈
 
 Detailed instruction with timestamps can be found here: 
 
