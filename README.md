@@ -34,7 +34,7 @@ During the Prereqs phase of the lab, I installed all the prerequisites and insta
 
 - Windows 10 Pro (22H2)</b>
 
-<h2>Video Demonstration</h2>
+
 
 <h2>osTicket System Prerequisites</h2>
 
@@ -50,7 +50,7 @@ During the Prereqs phase of the lab, I installed all the prerequisites and insta
 
 
 
-
+<h2>Video Demonstration</h2>
 
 
 Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e) 👈 to Watch Full Demo on YouTube
@@ -101,7 +101,7 @@ Video Timestamps:
 <h2>Next Up: osTicket Post Installation</h2>
 
 Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-Post-Installation) 👈 to go to the Post Installation repository.
-<br />
+
 
 
               
